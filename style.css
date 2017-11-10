@@ -1,0 +1,21 @@
+/* Premier CSS pour l'exercice conversion markdown-HTML-CSS */
+
+#liste-à-puces{
+  color: #FFA654;
+}
+
+#liste-numérotée{
+  color: #0021FF;
+}
+
+#insertion-dune-image-statique{
+  color: #00E88C;
+}
+
+#image-dynamique{
+  color: #E876C8;
+}
+
+#un-bout-de-code-à-lire{
+  color: #E8FF0D;
+}
